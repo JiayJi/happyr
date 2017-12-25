@@ -2,7 +2,7 @@
 title: "HappyR"
 author: "Jiayi Ji (jj2876)"
 date: "December 25, 2017"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
